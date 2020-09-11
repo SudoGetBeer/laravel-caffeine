@@ -11,7 +11,7 @@
     "require": {
         "illuminate/routing": "^8.0",
         "illuminate/support": "^8.0",        
-        "SudoGetBeer/model": "dev-master"
+        "sudogetbeer/model": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench-browser-kit": "^6.0",
