@@ -11,7 +11,7 @@
     "require": {
         "illuminate/routing": "^8.0",
         "illuminate/support": "^8.0",        
-        "jenssegers/model": "dev-master as 1.3"
+        "jenssegers/model": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench-browser-kit": "^6.0",
